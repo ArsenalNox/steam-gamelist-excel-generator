@@ -16,7 +16,3 @@ python main.py --key=API_KEY [options]
 	--show_playtime_platforms=true|false
 	--show_appid=true|false
 ```
-
-run complete 12/15
-stone 5/5
-crystal 17/16
